@@ -6,4 +6,5 @@ IEXE Repositorio prueba
 
  Ejercicios de git
 
-  ![](image.jpeg)
+![](image.jpeg)
+![](image2.jpeg)
